@@ -33,3 +33,4 @@ Este projeto foi construído utilizando apenas Java padrão, com foco em demonst
 3.  Abra a pasta do projeto em uma IDE Java, como o **IntelliJ IDEA** ou **Eclipse**.
 4.  Execute o método `main` localizado na classe `GerenciadorDeTime.java`.
 
+## 📸 Demonstração: (Gerenciador de Time.jpg)
