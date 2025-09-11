@@ -35,4 +35,4 @@ Este projeto foi construído utilizando apenas Java padrão, com foco em demonst
 
 ## 📸 Demonstração
 
-![Demonstração do Programa em Execução](Gerenciador de Time.jpg)
+[![Demonstração do Programa em Execução](Gerenciador de Time.jpg)](https://github.com/JonathanLange93/Gerenciador-De-Time.java/blob/main/Gerenciador%20de%20Time.jpg)
